@@ -1,0 +1,22 @@
+{
+  "name": "hackutd19",
+  "version": "1.0.0",
+  "description": "HackUTD 2019",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrMagma/hackutd19.git"
+  },
+  "author": "Joshua Gammage, Edward Garmon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrMagma/hackutd19/issues"
+  },
+  "homepage": "https://github.com/MrMagma/hackutd19#readme",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^0.3.0"
+  }
+}
