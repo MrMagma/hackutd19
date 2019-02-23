@@ -4,7 +4,8 @@
   "description": "HackUTD 2019",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"no\""
+    "test": "echo \"no\"",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
